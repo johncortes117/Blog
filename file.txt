@@ -1,0 +1,4 @@
+Hola soy John Cortés
+un estudiante de Ingeniería en Computación
+estudio en la UPEC y estoy en 5to semestre
+actualmente estoy enfocado en BackEnd
