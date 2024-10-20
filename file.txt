@@ -2,3 +2,5 @@ Hola soy John Cortés
 un estudiante de Ingeniería en Ciencias de la Computación
 estudio en la UPEC y estoy en 6to semestre
 actualmente estoy enfocado en Ciencia de datos
+
+Mi meta es algún día trabajar en AI
