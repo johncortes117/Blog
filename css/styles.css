@@ -1,5 +1,18 @@
 body {
-    color: cadetblue;
+    background-color: black;
+    color: rgb(221, 220, 220);
     text-align: center;
     font-family: "Arial";
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(17, 209, 33);
+    border-radius:5px;
 }
